@@ -1,0 +1,3 @@
+Mivel nem tisztáztuk, hogy a progival akarjuk e a bordereket megrajzolni, vagy a fildeknek legyen e alapból már megrajzolva a bordere, azért csináltam egy bordelss és egy borderes verziót. Utóbbit fekete, piros, és kék színben, hogy lehessen látni, hogy ki birtokolja az adott mezőt.
+
+A borderless 36px a borderes pedig 40px mivel a szegély hozzáad minden oldalhoz 2 px-elt.
